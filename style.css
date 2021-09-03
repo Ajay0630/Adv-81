@@ -1,0 +1,7 @@
+body {
+    background-color: chocolate;
+}
+#myCanvas {
+    border-style: ridge;
+    background-color: white;
+}
